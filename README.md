@@ -3,7 +3,7 @@
 Aspiring Software Development Engineer (SDE) passionate about solving real-world problems using AI/ML. I specialize in Deep Learning, Voice Cloning, and Real-Time Applications, and have experience building and deploying impactful projects using tools like PyTorch, TensorFlow, AWS, and Streamlit.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shinewithsachin-black?logo=github)](https://github.com/shinewithsachin)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--iiitg-blue?logo=linkedin)](https://www.linkedin.com/in/sachin-iiitg)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sachin--iiitg-blue?logo=linkedin)](https://www.linkedin.com/in/sachin-iiitg)  
 [![LeetCode (Alt)](https://img.shields.io/badge/LeetCode-sachinsspandit0503-orange?logo=leetcode)](https://leetcode.com/u/sachinsspandit0503/)
 
 ---
@@ -20,24 +20,8 @@ Technical Skills
 Education  
 Indian Institute of Information Technology, Guwahati (IIIT-G)  
 B.Tech in Computer Science and Engineering  
-CGPA: 6.33 | Status: Pursuing  
+CGPA: 6.55 | Status: Pursuing  
 Relevant Coursework: DSA, OOPS, Machine Learning, AI, Software Engineering  
-
----
-
-Projects  
-
-**Multi-Speaker Text to Speech System**  
-Built a voice cloning tool using Glow-TTS and SpeechBrain, with Streamlit deployment.  
-➡️ [View on GitHub](https://github.com/shinewithsachin/Multi-Speaker-TTS-System)  
-
-**Real-Time Object Detection System**  
-Implemented a webcam-integrated object detector using YOLOv9, featuring real-time alerts.  
-➡️ [View on GitHub](https://github.com/shinewithsachin/Real-Time-Object-Detection-System)  
-
-**Stock Prediction and Monitoring**  
-Developed a time-series forecasting system using LSTM, including preprocessing and live visualization.  
-➡️ [View on GitHub](https://github.com/shinewithsachin/Stock-Prediction)  
 
 ---
 
